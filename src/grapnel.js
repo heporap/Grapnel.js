@@ -224,7 +224,8 @@
     }
     // Window or module?
     if('function' === typeof root.define){
-        root.define(function(require){
+        // add module name for concatnation module files
+        root.define("Grapnel", function(require){
             return Grapnel;
         });
     }else if('object' === typeof exports){

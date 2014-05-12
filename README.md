@@ -3,6 +3,9 @@ Grapnel.js
 
 #### The smallest (1100 bytes gzipped!) JavaScript Router with Named Parameters & Event Listening. Lots of other Features too!
 
+forked from [engineeringmode.github.io/Grapnel.js](http://engineeringmode.github.io/Grapnel.js)  
+The deference is that this is named module name for AMD definition.
+
 # Features &amp; Basic Usage
 
 ## Router
