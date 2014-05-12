@@ -1,0 +1,13 @@
+{
+  "name": "Grapnel.js",
+  "version": "0.4.2",
+  "repository": "https://github.com/heporap/Grapnel.js",
+  "production": {
+    "author": "Wicker Wings",
+    "homepage": "http://wicker.wi-wi.jp/"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt": "~0.4.4"
+  }
+}
